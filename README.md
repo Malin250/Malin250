@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mugisha Alain
 
-### Inspiring future Data Analyst
+### Inspiring future IT ENthusiast
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Malin250&label=Profile views&color=0e75b6&style=flat" alt="Malin250" /> </p>
 
